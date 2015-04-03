@@ -1,0 +1,39 @@
+/*ink resets*/
+img{
+	display: inline;
+	float: none;
+}
+
+/*my styles*/
+body, .body{
+	background-color: #eeeeee;
+}
+.container{
+	background-color: #ffffff;
+}
+.border{
+	height: 8px;
+	background-color: #2577ca;
+}
+#header{
+	padding: 20px 0;
+}
+#header .wrapper{
+	padding-top: 0;
+}
+.six.sub-columns{
+	padding-bottom: 0;
+	vertical-align: middle;
+}
+.social{
+	text-align: right;
+	line-height: 0;
+}
+#contact{
+	text-align: center;
+	font-size: 13px;
+}
+#unsubscribe{
+	text-align: center;
+	font-size: 11px;
+}
